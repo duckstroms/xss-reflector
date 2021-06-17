@@ -1,4 +1,4 @@
-# reflector [<img src="https://github.com/duckstroms/xss-reflector/blob/master/screenshot/release-v2.0-blue.svg">](https://github.com/elkokc/reflector/releases/tag/2.1)
+# reflector [<img src="https://github.com/duckstroms/xss-reflector/blob/master/screenshot/release-v2.0-blue.svg">](https://github.com/duckstroms/xss-reflector/releases/tag/2.1)
  
 
 # Description
