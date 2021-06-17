@@ -1,4 +1,4 @@
-# reflector [<img src="https://github.com/duckstroms/xss-reflector/blob/master/screenshot/release-v2.0-blue.svg">](https://github.com/duckstroms/xss-reflector/releases/tag/2.1)
+# XSS-Reflector [<img src="https://raw.githubusercontent.com/duckstroms/xss-reflector/8fd48776a6d577af1c3e701ea240ea8135dc2d6d/screenshot/release-v2.0-blue.svg">](https://github.com/duckstroms/xss-reflector/releases/tag/xss)
  
 
 # Description
