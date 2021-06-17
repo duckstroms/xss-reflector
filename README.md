@@ -57,5 +57,5 @@ Example:
 * jar.exe cf plugin.jar -C build burp
 
 # Authors
-*  Andri Wahyudi (GitHub: ![duckstroms](https://github.com/duckstroms))
-*  Stregh Streek  (GitHub: ![streghstreek](https://github.com/streghstreek))
+*  Andri Wahyudi (GitHub: ! [duckstroms](https://github.com/duckstroms))
+*  Stregh Streek  (GitHub: ! [streghstreek](https://github.com/streghstreek))
