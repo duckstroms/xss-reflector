@@ -1,5 +1,5 @@
 # XSS-Reflector [<img src="https://raw.githubusercontent.com/duckstroms/xss-reflector/8fd48776a6d577af1c3e701ea240ea8135dc2d6d/screenshot/release-v2.0-blue.svg">](https://github.com/duckstroms/xss-reflector/releases/tag/xss) 
-  
+   
 
 # Description
 Burp Suite extension is able to find reflected XSS on page in real-time while browsing on web-site and include some features as:
