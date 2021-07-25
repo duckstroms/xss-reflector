@@ -16,6 +16,7 @@ public class Constants {
     public static final String HEADERS = "HEADERS";
     public static final String BODY = "BODY";
     public static final String BOTH = "ALL";
+    public static final String VIEW = "HOST";
     public static final String CONTEXT_OUT_OF_TAG = "HTML: <";
     public static final String CONTEXT_IN_ATTRIBUTE_Q = "Attribute: '";
     public static final String CONTEXT_IN_ATTRIBUTE_DQ = "Attribute: \"";
